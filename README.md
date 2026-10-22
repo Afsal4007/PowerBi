@@ -60,15 +60,6 @@ The Power BI file contains the following report pages:
 
 > **Note:** Data-source paths and credentials may need to be updated when opening the file on another computer. Do not commit passwords, access tokens, or confidential business data to GitHub.
 
-## Repository Contents
-
-```text
-.
-├── README.md
-└── Tyre Retail Sales & Inventory.pbix
-```
-
-If you add dashboard screenshots, place them in a folder such as `images/` and link them here to give visitors a preview without opening Power BI.
 
 ## Business Value
 
@@ -100,7 +91,7 @@ These are potential uses of the report, not claims that a particular business ou
 
 **Project:** Tyre Retail Sales & Inventory Analysis  
 **Tool:** Microsoft Power BI  
-**Author:** *Add your name here*
+**Author:** *Muhammed Afsal*
 
 ---
 
